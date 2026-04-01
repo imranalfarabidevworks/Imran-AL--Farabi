@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=200&section=header&text=IMRAN%20AL%20FARABI&fontSize=50&animation=fadeIn&fontColor=0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=IMRAN%20AL%20FARABI&fontSize=50&animation=fadeIn&fontColor=00f5ff" />
 </p>
 
 <p align="center">
@@ -20,23 +20,15 @@
 
 ## 🛰️ System Status: Operational
 
-<table align="center" border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 About Me</h3>
-      <p>I am a <b>Frontend Developer</b> specialized in building high-end digital experiences. Currently crafting interfaces at <b>Programming Hero</b>.</p>
-      <p>🔹 <b style="color: #00f5ff;">Focus:</b> Performance, Scalability, & Aesthetics</p>
-      <p>🔹 <b style="color: #00f5ff;">Current:</b> Developing <i>Video Alchemist</i> & <i>DigiTools</i></p>
-      <p>🔹 <b style="color: #00f5ff;">Location:</b> Bangladesh 🇧🇩</p>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 20px #00f5ff;" alt="Imran Al Farabi" />
-      <br/><br/>
-      <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 20px #00f5ff;" alt="Imran Al Farabi" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 20px #00f5ff;" alt="Imran Al Farabi" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+at+Programming+Hero;Focusing+on+Performance+%26+Aesthetics;Current+Projects:+Video+Alchemist+%26+DigiTools;Location:+Bangladesh+🇧🇩" />
+</p>
+
+---
 
 ## 🛠️ The Tech Forge (Arsenal)
 
@@ -50,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranalfarabidevworks&theme=tokyonight&background=0d1117&fire=00f5ff&ring=00f5ff&sideNums=ffffff&sideLabels=ffffff&dates=00c8cc&currStreakNum=ffffff&border=00f5ff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranalfarabidevworks&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&border_color=00f5ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" width="48%" />
 </p>
 
 <br/>
@@ -62,9 +54,6 @@
 ---
 
 ## 🧠 Dev Philosophy
-
-> [!IMPORTANT]
-> **"Programming isn't about what you know; it's about what you can figure out."**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
