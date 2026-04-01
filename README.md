@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+at+Programming+Hero;Focusing+on+Performance+%26+Aesthetics;Current+Projects:+Video+Alchemist+%26+DigiTools;Location:+Bangladesh+🇧🇩" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F5FF&background=0d1117&center=true&vCenter=true&width=600&height=100&lines=🚀+Frontend+Developer+at+Programming+Hero;💡+Focusing+on+Performance+%26+Aesthetics;🛠️+Projects:+Video+Alchemist+%26+DigiTools;📍+Location:+Bangladesh+🇧🇩" />
 </p>
 
 ---
