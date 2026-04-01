@@ -32,7 +32,7 @@
     <td width="45%" valign="top" align="center">
       <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 20px #00f5ff;" alt="Imran Al Farabi" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&border_color=00f5ff&hide_border=false" width="100%" />
+      <img src="https://i.ibb.co.com/CphL4gBk/Whats-App-Image-2025-12-08-at-6-03-13-PM.jpg" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 20px #00f5ff;" alt="Imran Al Farabi" />
     </td>
   </tr>
 </table>
