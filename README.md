@@ -24,17 +24,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F5FF&background=0d1117&center=true&vCenter=true&width=600&height=100&lines=🚀+Frontend+Developer+at+Programming+Hero;💡+Focusing+on+Performance+%26+Aesthetics;🛠️+Projects:+Video+Alchemist+%26+DigiTools;📍+Location:+Bangladesh+🇧🇩" />
 </p>
 
----
 
 ## 🛠️ The Tech Forge (Arsenal)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma,penpot&theme=dark" />
+  
   <br/><br/>
+  
   <img src="https://img.shields.io/badge/DaisyUI-5835EE?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/Picxo-FF00FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
+
+---
 
 ---
 
